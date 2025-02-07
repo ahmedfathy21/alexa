@@ -33,7 +33,8 @@
  
 #### Adjust alexa to your settings
 - Adjust these links with yours & add another links if needed
- ![alt text](image.png)
+ ![image](https://github.com/user-attachments/assets/5b94534f-a107-44cf-91cc-2a5801f1f16a)
+
 
 
 
