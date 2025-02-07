@@ -30,5 +30,12 @@
 - bs4
 - pywhatkit
 - wikipedia
+ 
+#### Adjust alexa to your settings
+- Adjust these links with yours & add another links if needed
+ ![alt text](image.png)
+
+
+
 
 
